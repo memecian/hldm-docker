@@ -2,6 +2,7 @@
 ![Half-Life](/media/banner.jpg)
 
 # Half-Life Deathmatch Server as Docker image
+## made by @spezifanta, forked and slightly updated by @memecian
 
 Probably the fastest and easiest way to set up an old-school Half-Life Deathmatch Dedicated Server (HLDS).
 You don't need to know anything about Linux or HLDS to start a server. You just need Docker and this image.
